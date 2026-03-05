@@ -1,1 +1,1 @@
-[open foder "appliance-repair-next"](https://appliance-repair-landing.vercel.app/)
+[open site](https://appliance-repair-landing.vercel.app/)
